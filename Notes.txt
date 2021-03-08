@@ -1,0 +1,11 @@
+To do list:
+
+Pages:
+    - Creation of rooms
+    - Dashboard with calendar
+    - Creation of User
+            - user permission 
+                the owner can access all pages
+                the employee is not able to access report page and not allowed to delete
+    - Booking Page
+    - Report Page
